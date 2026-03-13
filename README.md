@@ -85,4 +85,4 @@ DormLink/
 
 ## Acknowledgements
 
-Developed as part of the 2nd Year Mini Project at BV Raju Institute of Technology, Narsapur, under the guidance of faculty advisors.
+Developed as part of the 2nd Year GDG on Ccampus Hackathon  Project at BV Raju Institute of Technology, Narsapur, under the guidance of faculty advisors.
